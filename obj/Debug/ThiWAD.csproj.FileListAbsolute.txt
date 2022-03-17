@@ -83,3 +83,4 @@ D:\FPTAPTECH\ThiWAD\obj\Debug\ThiWAD.pdb
 D:\FPTAPTECH\ThiWAD\obj\Debug\ThiWAD.Migrations.InitDatabase.resources
 D:\FPTAPTECH\ThiWAD\obj\Debug\ThiWAD.csproj.GenerateResource.cache
 D:\FPTAPTECH\ThiWAD\obj\Debug\ThiWAD.Migrations.updateTable.resources
+D:\FPTAPTECH\ThiWAD\obj\Debug\ThiWAD.csproj.AssemblyReference.cache
